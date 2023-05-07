@@ -1,0 +1,11 @@
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\BankamatikOtomasyonu.exe.config
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\BankamatikOtomasyonu.exe
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\BankamatikOtomasyonu.pdb
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.csproj.AssemblyReference.cache
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.Form1.resources
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.Properties.Resources.resources
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.csproj.GenerateResource.cache
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.csproj.CoreCompileInputs.cache
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.exe
+D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.pdb
