@@ -9,3 +9,16 @@ D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.cspr
 D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.csproj.CoreCompileInputs.cache
 D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.exe
 D:\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.pdb
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\BankamatikOtomasyonu.exe.config
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\BankamatikOtomasyonu.exe
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\bin\Debug\BankamatikOtomasyonu.pdb
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.Form1.resources
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.Properties.Resources.resources
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.csproj.GenerateResource.cache
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.exe
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.pdb
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.YetkiliIslem.resources
+C:\Users\azra şimşek\OneDrive\Masaüstü\projem\BankamatikOtomasyonu\BankamatikOtomasyonu\obj\Debug\BankamatikOtomasyonu.MüsteriIşlemleri.resources
